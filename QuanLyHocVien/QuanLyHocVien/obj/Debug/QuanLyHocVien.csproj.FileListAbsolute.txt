@@ -1,0 +1,37 @@
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.AssemblyReference.cache
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.Properties.Resources.resources
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.GenerateResource.cache
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.CoreCompileInputs.cache
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe.config
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.pdb
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\Guna.UI2.dll
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHo.2A8E9C54.Up2Date
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.exe
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.pdb
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.Main.resources
+D:\laptrinh. net\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.hocvien.ThongTinHocVien.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe.config
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.exe
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\QuanLyHocVien.pdb
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\bin\Debug\Guna.UI2.dll
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.AssemblyReference.cache
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.giangvien.DiemTheoLop.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.giangvien.QuanLyDiem.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.giangvien.QuanLyGiangVien.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.hocvien.QuanLyhocVien.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.hocvien.QuanLyKhoaHoccs.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.hocvien.ThongTinHocVien.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.lophoc.QuanLyLopHoc.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.lophoc.XemCacLopDay.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.lophoc.xeplop.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.Main.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.Properties.Resources.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.user.DangKy.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.user.DangNhap.resources
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.GenerateResource.cache
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.csproj.CoreCompileInputs.cache
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHo.2A8E9C54.Up2Date
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.exe
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.pdb
+E:\Nam4_1\TTLTC#\BAI TAP LON\QuanLyHocVien\QuanLyHocVien\obj\Debug\QuanLyHocVien.giangvien.ThongTinGiangVien.resources
