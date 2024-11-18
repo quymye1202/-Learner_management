@@ -1,12 +1,170 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\lophoc\\xeplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\lophoc\\xeplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\lophoc\\xeplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\lophoc\\xeplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\lophoc\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\lophoc\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\lophoc\\xemcaclopday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\lophoc\\xemcaclopday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\giangvien\\thongtingiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\giangvien\\thongtingiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Main.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Main.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Main.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Main.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAHMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:22:53.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xeplop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\xeplop.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\lophoc\\xeplop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\xeplop.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien\\lophoc\\xeplop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:36:22.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xeplop.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\xeplop.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\lophoc\\xeplop.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\xeplop.cs",
+              "RelativeToolTip": "QuanLyHocVien\\lophoc\\xeplop.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:24:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyLopHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:24:03.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThongTinGiangVien.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "RelativeToolTip": "QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAhwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:18:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XemCacLopDay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\XemCacLopDay.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\lophoc\\XemCacLopDay.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\XemCacLopDay.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien\\lophoc\\XemCacLopDay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:17:30.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Main.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Main.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Main.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:15:50.036Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

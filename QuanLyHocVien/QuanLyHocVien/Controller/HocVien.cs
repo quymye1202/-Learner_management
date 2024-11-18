@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -35,7 +36,7 @@ namespace QuanLyHocVien.Controller
                 new SqlParameter("@gioitinh", gioitinh),
                 new SqlParameter("@diachi", diachi),
                 new SqlParameter("@sdt", sdt),
-                new SqlParameter("email", email),
+                new SqlParameter("@email", email),
                 new SqlParameter("@ngaydk", ngaydk),
                 new SqlParameter("@trinhdo", trinhdo),
             };
@@ -62,7 +63,7 @@ namespace QuanLyHocVien.Controller
                 new SqlParameter("@gioitinh", gioitinh),
                 new SqlParameter("@diachi", diachi),
                 new SqlParameter("@sdt", sdt),
-                new SqlParameter("email", email),
+                new SqlParameter("@email", email),
                 new SqlParameter("@ngaydk", ngaydk),
                 new SqlParameter("@trinhdo", trinhdo),
             };
@@ -96,10 +97,50 @@ namespace QuanLyHocVien.Controller
             string sql = $"SELECT * FROM hocvien WHERE {searchString}";
             return kn.GetData(sql);
         }
+        public DataTable searchTimKiem2(string searchString)
+        {
+            string sql = $"SELECT hocvien_id,ho_ten,ngay_sinh,gioi_tinh,lophoc_id FROM hocvien WHERE {searchString}";
+            return kn.GetData(sql);
+        }
         public DataTable getTrinhDo()
         {
             string sql = "SELECT DISTINCT trinh_do FROM hocvien";
             return kn.GetData(sql);
+        }
+        public void UpdateHocVienlop(string mahv,int malop)
+        {
+            string sql = "UPDATE hocvien SET lophoc_id=@malop WHERE hocvien_id=@mahv";
+            SqlParameter[] sp = new SqlParameter[]
+            {
+                new SqlParameter("@mahv", mahv),
+                new SqlParameter("@malop", malop),
+
+            };
+            if (kn.CreateUpdateDelete(sql, sp))
+            {
+                MessageBox.Show("Vào lớp thành công");
+            }
+            else
+            {
+                MessageBox.Show("Vào lớp thất bại");
+            }
+        }
+        public void UpdateHocVienrakhoilop(string mahv)
+        {
+            string sql = "UPDATE hocvien SET lophoc_id=NUlL WHERE hocvien_id=@mahv";
+            SqlParameter[] sp = new SqlParameter[]
+            {
+                new SqlParameter("@mahv", mahv),
+
+            };
+            if (kn.CreateUpdateDelete(sql, sp))
+            {
+                MessageBox.Show("Loại khỏi lớp thành công");
+            }
+            else
+            {
+                MessageBox.Show("Loại ra khỏi lớp thất bại");
+            }
         }
     }
 }

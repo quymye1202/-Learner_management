@@ -16,7 +16,7 @@ namespace QuanLyHocVien
         public SqlConnection conn;
         public void openConnect()
         {
-            conn = new SqlConnection("Data Source=LAPTOP-LC1LJAI6\\SQLEXPRESS;Initial Catalog=quanlyhocvien;Integrated Security=True");
+            conn = new SqlConnection("Data Source=DESKTOP-6NQ2G41;Initial Catalog=quanlyhocvien;Integrated Security=True;");
             conn.Open();
         }
         public void closeConnect()

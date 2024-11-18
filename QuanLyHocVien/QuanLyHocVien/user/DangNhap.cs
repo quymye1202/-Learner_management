@@ -7,11 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using QuanLyHocVien.Controller;
-using QuanLyHocVien.hocvien;
 
 namespace QuanLyHocVien.user
 {
+
     public partial class DangNhap : Form
     {
         KetNoi kn;
@@ -20,12 +19,12 @@ namespace QuanLyHocVien.user
             InitializeComponent();
             kn = new KetNoi();
         }
-
+       
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string username = txtUsername.Text;
             string password = txtpassword.Text;
-            if(username == "")
+            if (username == "")
             {
                 MessageBox.Show("Username trống");
                 txtUsername.Focus();
@@ -44,7 +43,6 @@ namespace QuanLyHocVien.user
                     this.Hide();
                     main.ShowDialog();
                     this.Show();
-                    //txtUsername.Text = username;
                     txtpassword.Text = "";
                 }
                 else
@@ -52,6 +50,14 @@ namespace QuanLyHocVien.user
                     MessageBox.Show("Đăng Nhập thất bại!!!");
                 }
             }
+        }
+
+        private void guna2HtmlLabel2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            DangKy dk= new DangKy();    
+            dk.ShowDialog();
+            this.Show();
         }
     }
 }

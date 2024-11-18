@@ -135,7 +135,6 @@ namespace QuanLyHocVien.hocvien
         private void btnHuy_Click(object sender, EventArgs e)
         {
             setState(false);
-            txtMaHV.Enabled = true;
         }
 
         private void btn_timkiem_Click(object sender, EventArgs e)

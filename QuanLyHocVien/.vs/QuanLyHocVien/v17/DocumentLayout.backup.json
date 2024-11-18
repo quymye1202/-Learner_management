@@ -1,12 +1,370 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\laptrinh. net\\bai tap lon\\bai tap lon\\quanlyhocvien\\quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\laptrinh. net\\bai tap lon\\bai tap lon\\quanlyhocvien\\quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\user\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\user\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\lophoc\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\lophoc\\quanlylophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\lophoc\\xeplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\lophoc\\xeplop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\diem\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\diem\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\diem\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\diem\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\diem\\diemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\diem\\diemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\diem\\diemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\diem\\diemtheolop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\controller\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controller\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\giangvien\\quanlygiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\giangvien\\quanlygiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\giangvien\\thongtingiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\giangvien\\thongtingiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\giangvien\\thongtingiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\giangvien\\thongtingiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\hocvien\\quanlyhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\hocvien\\quanlyhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\controller\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controller\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\controller\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controller\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\hocvien\\quanlyhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\hocvien\\quanlyhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\controller\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controller\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\lophoc\\xemcaclopday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quanlyhocvien\\lophoc\\xemcaclopday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\quanlyhocvien\\hocvien\\quanlykhoahoccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quanlyhocvien\\hocvien\\quanlykhoahoccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Main.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Main.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Main.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Main.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:42:20.795Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\user\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\user\\DangNhap.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\user\\DangNhap.cs*",
+              "RelativeToolTip": "QuanLyHocVien\\user\\DangNhap.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:33:05.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\user\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\user\\DangNhap.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\user\\DangNhap.cs [Design]*",
+              "RelativeToolTip": "QuanLyHocVien\\user\\DangNhap.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:24:29.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\user\\DangKy.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\user\\DangKy.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\user\\DangKy.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien\\user\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:24:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XemCacLopDay.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\XemCacLopDay.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\lophoc\\XemCacLopDay.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\XemCacLopDay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:18:33.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyDiem.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\QuanLyDiem.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Diem\\QuanLyDiem.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\QuanLyDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:04:34.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyLopHoc.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien\\lophoc\\QuanLyLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:23:09.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "xeplop.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\xeplop.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\lophoc\\xeplop.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\lophoc\\xeplop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:18:48.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Main.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Main.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:18:11.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLyDiem.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\QuanLyDiem.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Diem\\QuanLyDiem.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\QuanLyDiem.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Diem\\QuanLyDiem.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAMwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:07:28.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiemTheoLop.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\DiemTheoLop.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Diem\\DiemTheoLop.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\DiemTheoLop.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Diem\\DiemTheoLop.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAD4vz4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:02:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiemTheoLop.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\DiemTheoLop.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Diem\\DiemTheoLop.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Diem\\DiemTheoLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:51:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Program.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Program.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:57:05.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuanLyKhoaHoccs.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyKhoaHoccs.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\hocvien\\QuanLyKhoaHoccs.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyKhoaHoccs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:15:55.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\Diem.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controller\\Diem.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\Diem.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controller\\Diem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:59:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThongTinGiangVien.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "RelativeToolTip": "QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAWwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:22:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThongTinGiangVien.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\ThongTinGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:22:39.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanLyGiangVien.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\QuanLyGiangVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\giangvien\\QuanLyGiangVien.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\giangvien\\QuanLyGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:22:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuanLyhocVien.cs [Design]",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "ToolTip": "E:\\Nam4_1\\TTLTC#\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyhocVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:23:10.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HocVien.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\HocVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controller\\HocVien.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\HocVien.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controller\\HocVien.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:58:19.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GiangVien.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\GiangVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controller\\GiangVien.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\GiangVien.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controller\\GiangVien.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:00:05.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuanLyhocVien.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "RelativeToolTip": "QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAMwIwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:23:12.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\KetNoi.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controller\\KetNoi.cs",
+              "ToolTip": "D:\\laptrinh. net\\BAI TAP LON\\BAI TAP LON\\QuanLyHocVien\\QuanLyHocVien\\Controller\\KetNoi.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controller\\KetNoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:17:28.583Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

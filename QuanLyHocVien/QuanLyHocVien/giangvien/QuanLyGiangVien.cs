@@ -20,105 +20,110 @@ namespace QuanLyHocVien.giangvien
             InitializeComponent();
             giangVien = new GiangVien();
         }
-
-        private void QuanLyGiangVien_Load(object sender, EventArgs e)
+        private void ThongTinGiangVien_Load(object sender, EventArgs e)
         {
-            cboChuyenMon.DataSource = giangVien.getGiangVien();
-            cboChuyenMon.DisplayMember = "chuyen_mon";
-
-            gridGV.DataSource = giangVien.getGiangVien();
-            gridGV.Columns[0].HeaderText = "Mã GV";
-            gridGV.Columns[1].HeaderText = "Họ Tên";
-            gridGV.Columns[2].HeaderText = "Chuyên Môn";
-            gridGV.Columns[3].HeaderText = "Số Diện Thoại";
-            gridGV.Columns[4].HeaderText = "Email";
+            gridDSGV.DataSource = giangVien.getGiangVien();
+            gridDSGV.Columns[0].HeaderText = "Mã GV";
+            gridDSGV.Columns[1].HeaderText = "Họ Tên";
+            gridDSGV.Columns[2].HeaderText = "Chuyên Môn";
+            gridDSGV.Columns[3].HeaderText = "Số Diện Thoại";
+            gridDSGV.Columns[4].HeaderText = "Email";
+            setState(false);
         }
 
-        private void btnHienTatCa_Click(object sender, EventArgs e)
+        private void btnThem_Click(object sender, EventArgs e)
         {
-            gridGV.DataSource = giangVien.getGiangVien();
+            int ma = int.Parse(txtMaGV.Text);
+            string hoten = txtHoTen.Text;
+            string chuyenmon = txtChuyenMon.Text;
+            string sdt = txtSDT.Text;
+            string email = txtEmail.Text;
+            giangVien.CreateGiangVien(ma, hoten,chuyenmon, sdt, email);
+            gridDSGV.DataSource = giangVien.getGiangVien();
+            setState(false);
+            clearText();
         }
 
-        private void chkMaGV_CheckedChanged(object sender, EventArgs e)
+        private void btnSua_Click(object sender, EventArgs e)
         {
-            if (chkMaGV.Checked)
-            {
-                txtMaGV.Enabled = true;
-            }
-            else
-            {
-                txtMaGV.Enabled = false;
-            }
+            int ma = int.Parse(txtMaGV.Text);
+            string hoten = txtHoTen.Text;
+            string chuyenmon = txtChuyenMon.Text;
+            string sdt = txtSDT.Text;
+            string email = txtEmail.Text;
+            giangVien.UpdateGiangVien(ma, hoten, chuyenmon, sdt, email);
+            gridDSGV.DataSource = giangVien.getGiangVien();
+            setState(false);
+            clearText();
         }
 
-        private void chkTenGV_CheckedChanged(object sender, EventArgs e)
+        private void btnXoa_Click(object sender, EventArgs e)
         {
-            if (chkTenGV.Checked)
-            {
-                txtTenGV.Enabled = true;
-            }
-            else
-            {
-                txtTenGV.Enabled = false;
-            }
+            int ma = int.Parse(txtMaGV.Text);
+            giangVien.DeleteGiangVien(ma);
+            gridDSGV.DataSource = giangVien.getGiangVien();
+            setState(false);
+            clearText();
         }
 
-        private void chkChuyenMon_CheckedChanged(object sender, EventArgs e)
+        private void gridDSGV_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (chkChuyenMon.Checked)
+            if (e.RowIndex >= 0)
             {
-                cboChuyenMon.Enabled = true;
-            }
-            else
-            {
-                cboChuyenMon.Enabled = false;
+                DataGridViewRow row = gridDSGV.Rows[e.RowIndex];
+                txtMaGV.Text = row.Cells[0].Value.ToString();
+                txtHoTen.Text = row.Cells[1].Value.ToString();
+                txtChuyenMon.Text = row.Cells[2].Value.ToString();
+                txtSDT.Text = row.Cells[3].Value.ToString();
+                txtEmail.Text = row.Cells[4].Value.ToString();
+                setState(true);
             }
         }
-
-        private void btnTimKiem_Click(object sender, EventArgs e)
+        private void setState(bool state)
         {
-            string searchString = "1=1";
-            if (chkMaGV.Checked)
-            {
-                searchString += $" and giangvien_id = {txtMaGV.Text}";
-            }
-            if (chkTenGV.Checked)
-            {
-                searchString += $" and ho_ten like N'%{txtTenGV.Text}%'";
-            }
-            if (chkChuyenMon.Checked)
-            {
-                searchString += $" and chuyen_mon = N'{cboChuyenMon.Text}'";
-            }
-            gridGV.DataSource = giangVien.searchTimKiem(searchString);
-            if(gridGV.RowCount == 0)
-            {
-                MessageBox.Show("Không có dữ liệu cần tìm");
-            }
+            btnThem.Enabled = state;
+            btnSua.Enabled = state;
+            btnXoa.Enabled = state;
+            txtMaGV.Enabled = !state;
         }
         private void clearText()
         {
             txtMaGV.Clear();
-            txtTenGV.Clear();
-            cboChuyenMon.Text = "";
+            txtHoTen.Clear();
+            txtChuyenMon.Clear();
+            txtSDT.Clear();
+            txtEmail.Clear();
         }
-
-        private void btnDatLai_Click(object sender, EventArgs e)
-        {
-            chkMaGV.Checked = false;
-            chkTenGV.Checked = false;
-            chkChuyenMon.Checked = false;
-            clearText();
-            QuanLyGiangVien_Load(sender, e);
-        }
-
-        private void btnThemGV_Click(object sender, EventArgs e)
+        private void btn_timkiem_Click(object sender, EventArgs e)
         {
             var qlhv = new ThongTinGiangVien();
             this.Hide();
             qlhv.ShowDialog();
             this.Show();
-            QuanLyGiangVien_Load(sender, e);
+            ThongTinGiangVien_Load(sender, e);
+        }
+
+        private void btnLuuTT_Click(object sender, EventArgs e)
+        {
+            if (txtMaGV.Text == "")
+            {
+                MessageBox.Show("Mã Giảng Viên trống!!");
+                txtMaGV.Focus();
+                return;
+            }
+            if (txtHoTen.Text == "")
+            {
+                MessageBox.Show("Họ Tên Giảng Viên trống!!");
+                txtHoTen.Focus();
+                return;
+            }
+            setState(true);
+        }
+
+        private void btnHuy_Click(object sender, EventArgs e)
+        {
+            setState(false);
+            clearText();
         }
     }
 }
