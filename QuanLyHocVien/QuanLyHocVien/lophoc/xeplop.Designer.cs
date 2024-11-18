@@ -158,7 +158,6 @@
             this.gridDSHV.Size = new System.Drawing.Size(472, 387);
             this.gridDSHV.TabIndex = 13;
             this.gridDSHV.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridDSHV_CellClick);
-            
             // 
             // splitContainer1
             // 
@@ -334,6 +333,7 @@
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.panel1);
             this.Name = "xeplop";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "xeplop";
             this.Load += new System.EventHandler(this.xeplop_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridDSHVLop)).EndInit();

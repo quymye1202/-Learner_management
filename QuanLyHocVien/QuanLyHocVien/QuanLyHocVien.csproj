@@ -331,6 +331,7 @@
     <Content Include="assets\img\Basic English Class Banner.png" />
     <Content Include="assets\img\study.png" />
     <Content Include="assets\img\user.png" />
+    <None Include="Resources\ht.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Data.SqlClient.SNI.5.0.0\build\net46\Microsoft.Data.SqlClient.SNI.targets" Condition="Exists('..\packages\Microsoft.Data.SqlClient.SNI.5.0.0\build\net46\Microsoft.Data.SqlClient.SNI.targets')" />

@@ -209,6 +209,7 @@
             this.ClientSize = new System.Drawing.Size(1050, 528);
             this.Controls.Add(this.guna2GradientPanel1);
             this.Name = "DangNhap";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng nhập";
             this.guna2GradientPanel1.ResumeLayout(false);
             this.lbdangnhao.ResumeLayout(false);

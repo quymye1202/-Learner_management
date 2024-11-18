@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.lbdangnhao = new Guna.UI2.WinForms.Guna2GradientPanel();
+            this.cbquantri = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.txtxacnhanmk = new Guna.UI2.WinForms.Guna2TextBox();
             this.lbTaoTK = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.btnLogin = new Guna.UI2.WinForms.Guna2Button();
@@ -36,11 +38,9 @@
             this.txtUsername = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
-            this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.cbquantri = new Guna.UI2.WinForms.Guna2ComboBox();
             this.lbdangnhao.SuspendLayout();
-            this.guna2GradientPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
+            this.guna2GradientPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lbdangnhao
@@ -58,6 +58,38 @@
             this.lbdangnhao.Name = "lbdangnhao";
             this.lbdangnhao.Size = new System.Drawing.Size(857, 458);
             this.lbdangnhao.TabIndex = 1;
+            // 
+            // cbquantri
+            // 
+            this.cbquantri.BackColor = System.Drawing.Color.Transparent;
+            this.cbquantri.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cbquantri.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbquantri.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cbquantri.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.cbquantri.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cbquantri.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.cbquantri.ItemHeight = 30;
+            this.cbquantri.Items.AddRange(new object[] {
+            "Quản trị viên",
+            "Giảng viên"});
+            this.cbquantri.Location = new System.Drawing.Point(399, 312);
+            this.cbquantri.Name = "cbquantri";
+            this.cbquantri.Size = new System.Drawing.Size(348, 36);
+            this.cbquantri.TabIndex = 11;
+            // 
+            // guna2CirclePictureBox1
+            // 
+            this.guna2CirclePictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2CirclePictureBox1.FillColor = System.Drawing.Color.Black;
+            this.guna2CirclePictureBox1.Image = global::QuanLyHocVien.Properties.Resources.study;
+            this.guna2CirclePictureBox1.ImageRotate = 0F;
+            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(86, 90);
+            this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
+            this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(236, 224);
+            this.guna2CirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2CirclePictureBox1.TabIndex = 10;
+            this.guna2CirclePictureBox1.TabStop = false;
             // 
             // txtxacnhanmk
             // 
@@ -176,38 +208,6 @@
             this.guna2GradientPanel1.Size = new System.Drawing.Size(1065, 532);
             this.guna2GradientPanel1.TabIndex = 2;
             // 
-            // guna2CirclePictureBox1
-            // 
-            this.guna2CirclePictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2CirclePictureBox1.FillColor = System.Drawing.Color.Black;
-            this.guna2CirclePictureBox1.Image = global::QuanLyHocVien.Properties.Resources.study;
-            this.guna2CirclePictureBox1.ImageRotate = 0F;
-            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(86, 90);
-            this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(236, 224);
-            this.guna2CirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2CirclePictureBox1.TabIndex = 10;
-            this.guna2CirclePictureBox1.TabStop = false;
-            // 
-            // cbquantri
-            // 
-            this.cbquantri.BackColor = System.Drawing.Color.Transparent;
-            this.cbquantri.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.cbquantri.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cbquantri.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cbquantri.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.cbquantri.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.cbquantri.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.cbquantri.ItemHeight = 30;
-            this.cbquantri.Items.AddRange(new object[] {
-            "Quản trị viên",
-            "Giảng viên"});
-            this.cbquantri.Location = new System.Drawing.Point(399, 312);
-            this.cbquantri.Name = "cbquantri";
-            this.cbquantri.Size = new System.Drawing.Size(348, 36);
-            this.cbquantri.TabIndex = 11;
-            // 
             // DangKy
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -215,10 +215,11 @@
             this.ClientSize = new System.Drawing.Size(1065, 532);
             this.Controls.Add(this.guna2GradientPanel1);
             this.Name = "DangKy";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DangKy";
             this.lbdangnhao.ResumeLayout(false);
-            this.guna2GradientPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
+            this.guna2GradientPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }

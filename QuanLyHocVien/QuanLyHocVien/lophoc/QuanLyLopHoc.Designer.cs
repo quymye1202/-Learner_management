@@ -740,6 +740,7 @@
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.panel1);
             this.Name = "QuanLyLopHoc";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QuanLyLopHoc";
             this.Load += new System.EventHandler(this.QuanLyLopHoc_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridLop)).EndInit();

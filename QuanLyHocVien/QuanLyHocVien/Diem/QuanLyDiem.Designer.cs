@@ -630,6 +630,7 @@
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
             this.Name = "QuanLyDiem";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QuanLyDiem";
             this.Load += new System.EventHandler(this.QuanLyDiem_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridDSHV)).EndInit();

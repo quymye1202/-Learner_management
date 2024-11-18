@@ -493,7 +493,7 @@
             this.btnThem.Text = "Thêm";
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
-            // ThongTinGiangVien
+            // QuanLyGiangVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -501,7 +501,8 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.splitContainer1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "ThongTinGiangVien";
+            this.Name = "QuanLyGiangVien";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ThongTinGiangVien";
             this.Load += new System.EventHandler(this.ThongTinGiangVien_Load);
             this.panel1.ResumeLayout(false);

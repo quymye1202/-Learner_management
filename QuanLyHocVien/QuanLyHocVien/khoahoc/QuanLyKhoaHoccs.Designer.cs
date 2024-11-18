@@ -459,6 +459,7 @@
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.panel1);
             this.Name = "QuanLyKhoaHoccs";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QuanLyKhoaHoccs";
             this.Load += new System.EventHandler(this.QuanLyKhoaHoccs_Load);
             this.panel3.ResumeLayout(false);

@@ -35,21 +35,21 @@
             this.label2 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.btnTaoBaoCao = new Guna.UI2.WinForms.Guna2Button();
+            this.lblTongCong = new System.Windows.Forms.Label();
+            this.label24 = new System.Windows.Forms.Label();
+            this.gridThongKe = new System.Windows.Forms.DataGridView();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.btnTimKiem = new Guna.UI2.WinForms.Guna2Button();
             this.label1 = new System.Windows.Forms.Label();
             this.btnClose = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.gridThongKe = new System.Windows.Forms.DataGridView();
-            this.label24 = new System.Windows.Forms.Label();
-            this.lblTongCong = new System.Windows.Forms.Label();
-            this.btnTaoBaoCao = new Guna.UI2.WinForms.Guna2Button();
             ((System.ComponentModel.ISupportInitialize)(this.gridLop)).BeginInit();
             this.panel2.SuspendLayout();
-            this.panel1.SuspendLayout();
             this.panel6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridThongKe)).BeginInit();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label4
@@ -139,6 +139,72 @@
             this.panel2.TabIndex = 15;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
+            // panel6
+            // 
+            this.panel6.Controls.Add(this.btnTaoBaoCao);
+            this.panel6.Controls.Add(this.lblTongCong);
+            this.panel6.Controls.Add(this.label24);
+            this.panel6.Controls.Add(this.gridThongKe);
+            this.panel6.Location = new System.Drawing.Point(326, 0);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(783, 496);
+            this.panel6.TabIndex = 17;
+            // 
+            // btnTaoBaoCao
+            // 
+            this.btnTaoBaoCao.BorderRadius = 10;
+            this.btnTaoBaoCao.BorderThickness = 1;
+            this.btnTaoBaoCao.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnTaoBaoCao.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnTaoBaoCao.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnTaoBaoCao.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnTaoBaoCao.FillColor = System.Drawing.Color.MediumTurquoise;
+            this.btnTaoBaoCao.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
+            this.btnTaoBaoCao.ForeColor = System.Drawing.Color.White;
+            this.btnTaoBaoCao.Location = new System.Drawing.Point(624, 7);
+            this.btnTaoBaoCao.Name = "btnTaoBaoCao";
+            this.btnTaoBaoCao.Size = new System.Drawing.Size(156, 27);
+            this.btnTaoBaoCao.TabIndex = 77;
+            this.btnTaoBaoCao.Text = "In danh sách";
+            // 
+            // lblTongCong
+            // 
+            this.lblTongCong.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.lblTongCong.AutoSize = true;
+            this.lblTongCong.Location = new System.Drawing.Point(25, 471);
+            this.lblTongCong.Name = "lblTongCong";
+            this.lblTongCong.Size = new System.Drawing.Size(331, 16);
+            this.lblTongCong.TabIndex = 68;
+            this.lblTongCong.Text = "Tổng cộng: 0 học viên. Điểm trung bình của lớp: 0 điểm.";
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.Location = new System.Drawing.Point(16, 18);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(144, 16);
+            this.label24.TabIndex = 67;
+            this.label24.Text = "Thống kê điểm của lớp";
+            // 
+            // gridThongKe
+            // 
+            this.gridThongKe.AllowUserToAddRows = false;
+            this.gridThongKe.AllowUserToResizeRows = false;
+            this.gridThongKe.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.gridThongKe.BackgroundColor = System.Drawing.Color.White;
+            this.gridThongKe.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.gridThongKe.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.gridThongKe.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
+            this.gridThongKe.Location = new System.Drawing.Point(25, 45);
+            this.gridThongKe.MultiSelect = false;
+            this.gridThongKe.Name = "gridThongKe";
+            this.gridThongKe.ReadOnly = true;
+            this.gridThongKe.RowHeadersVisible = false;
+            this.gridThongKe.RowHeadersWidth = 51;
+            this.gridThongKe.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.gridThongKe.Size = new System.Drawing.Size(755, 423);
+            this.gridThongKe.TabIndex = 66;
+            // 
             // guna2Button1
             // 
             this.guna2Button1.BorderRadius = 10;
@@ -207,72 +273,6 @@
             this.panel1.Size = new System.Drawing.Size(1155, 24);
             this.panel1.TabIndex = 14;
             // 
-            // panel6
-            // 
-            this.panel6.Controls.Add(this.btnTaoBaoCao);
-            this.panel6.Controls.Add(this.lblTongCong);
-            this.panel6.Controls.Add(this.label24);
-            this.panel6.Controls.Add(this.gridThongKe);
-            this.panel6.Location = new System.Drawing.Point(326, 0);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(783, 496);
-            this.panel6.TabIndex = 17;
-            // 
-            // gridThongKe
-            // 
-            this.gridThongKe.AllowUserToAddRows = false;
-            this.gridThongKe.AllowUserToResizeRows = false;
-            this.gridThongKe.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
-            this.gridThongKe.BackgroundColor = System.Drawing.Color.White;
-            this.gridThongKe.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.gridThongKe.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.gridThongKe.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
-            this.gridThongKe.Location = new System.Drawing.Point(25, 45);
-            this.gridThongKe.MultiSelect = false;
-            this.gridThongKe.Name = "gridThongKe";
-            this.gridThongKe.ReadOnly = true;
-            this.gridThongKe.RowHeadersVisible = false;
-            this.gridThongKe.RowHeadersWidth = 51;
-            this.gridThongKe.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.gridThongKe.Size = new System.Drawing.Size(755, 423);
-            this.gridThongKe.TabIndex = 66;
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(16, 18);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(144, 16);
-            this.label24.TabIndex = 67;
-            this.label24.Text = "Thống kê điểm của lớp";
-            // 
-            // lblTongCong
-            // 
-            this.lblTongCong.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.lblTongCong.AutoSize = true;
-            this.lblTongCong.Location = new System.Drawing.Point(25, 471);
-            this.lblTongCong.Name = "lblTongCong";
-            this.lblTongCong.Size = new System.Drawing.Size(331, 16);
-            this.lblTongCong.TabIndex = 68;
-            this.lblTongCong.Text = "Tổng cộng: 0 học viên. Điểm trung bình của lớp: 0 điểm.";
-            // 
-            // btnTaoBaoCao
-            // 
-            this.btnTaoBaoCao.BorderRadius = 10;
-            this.btnTaoBaoCao.BorderThickness = 1;
-            this.btnTaoBaoCao.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnTaoBaoCao.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnTaoBaoCao.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnTaoBaoCao.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnTaoBaoCao.FillColor = System.Drawing.Color.MediumTurquoise;
-            this.btnTaoBaoCao.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
-            this.btnTaoBaoCao.ForeColor = System.Drawing.Color.White;
-            this.btnTaoBaoCao.Location = new System.Drawing.Point(624, 7);
-            this.btnTaoBaoCao.Name = "btnTaoBaoCao";
-            this.btnTaoBaoCao.Size = new System.Drawing.Size(156, 27);
-            this.btnTaoBaoCao.TabIndex = 77;
-            this.btnTaoBaoCao.Text = "In danh sách";
-            // 
             // DiemTheoLop
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -283,16 +283,17 @@
             this.Controls.Add(this.panel1);
             this.MaximizeBox = false;
             this.Name = "DiemTheoLop";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DiemTheoLop";
             this.Load += new System.EventHandler(this.DiemTheoLop_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridLop)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridThongKe)).EndInit();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
