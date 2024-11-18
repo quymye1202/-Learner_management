@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\controller\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controller\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\hocvien\\quanlyhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\hocvien\\quanlyhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\controller\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controller\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|c:\\users\\dell\\downloads\\bai tap lon (1)\\quanlyhocvien\\quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{305D7E0A-159B-46D4-BA2B-40DBAA271260}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\user\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +58,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyhocVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\hocvien\\QuanLyhocVien.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\hocvien\\QuanLyhocVien.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien\\hocvien\\QuanLyhocVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:24:58.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HocVien.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Controller\\HocVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controller\\HocVien.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Controller\\HocVien.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controller\\HocVien.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:23:44.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Controller\\KetNoi.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controller\\KetNoi.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\Controller\\KetNoi.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controller\\KetNoi.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAuwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:23:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\user\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\user\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\user\\DangNhap.cs",
+              "RelativeToolTip": "QuanLyHocVien\\user\\DangNhap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:21:38.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DangNhap.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\BAI TAP LON (1)\\QuanLyHocVien\\QuanLyHocVien\\user\\DangNhap.cs",
               "RelativeDocumentMoniker": "QuanLyHocVien\\user\\DangNhap.cs",
