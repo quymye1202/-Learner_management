@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace QuanLyHocVien.Controller
 {
@@ -30,6 +32,26 @@ namespace QuanLyHocVien.Controller
                 $"diem_noi FROM bangdiem, hocvien WHERE bangdiem.lophoc_id = {malop} " +
                 $"and bangdiem.hocvien_id = hocvien.hocvien_id";
             return kn.GetData(sql);
+        }
+        public void UpdateHocVien(int mahv, decimal diemnghe, decimal diemdoc,decimal diemnoi,decimal diemviet)
+        {
+            string sql = "UPDATE bangdiem SET diem_nghe=@diemnghe, diem_doc=@diemdoc, diem_viet=@diemviet, diem_noi=@diemnoi WHERE hocvien_id=@mahv";
+            SqlParameter[] sp = new SqlParameter[]
+            {
+                new SqlParameter("@mahv", mahv),
+                new SqlParameter("@diemnghe", diemnghe),
+                new SqlParameter("@diemnoi", diemnoi),
+                new SqlParameter("@diemdoc", diemdoc),
+                new SqlParameter("@diemviet", diemviet)
+            };
+            if (kn.CreateUpdateDelete(sql, sp))
+            {
+                MessageBox.Show("Cập nhật điểm thành công!");
+            }
+            else
+            {
+                MessageBox.Show("Cập nhật điểm thất bại");
+            }
         }
     }
 }

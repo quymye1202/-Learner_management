@@ -88,5 +88,16 @@ namespace QuanLyHocVien.giangvien
                 numDiemViet.Text = diemViet;
             }
         }
+
+        private void btnLuuTT_Click(object sender, EventArgs e)
+        {
+            int mahoc =int.Parse(lblMaHV.Text);
+            decimal diemnghe = decimal.Parse(numDiemNghe.Text);
+            decimal diemdoc = decimal.Parse(numDiemDoc.Text);
+            decimal diemviet = decimal.Parse(numDiemViet.Text);
+            decimal diemnoi = decimal.Parse(numDiemNoi.Text);
+            diem.UpdateHocVien(mahoc, diemnghe, diemdoc, diemnoi, diemviet);
+            QuanLyDiem_Load(sender, e);
+        }
     }
 }

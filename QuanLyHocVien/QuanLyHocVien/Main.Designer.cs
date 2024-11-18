@@ -47,6 +47,7 @@
             this.đăngXuấtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.lbuser = new System.Windows.Forms.Label();
             this.menuhocvien.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -189,14 +190,14 @@
             // đăngXuấtToolStripMenuItem
             // 
             this.đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
-            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(224, 32);
+            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(196, 32);
             this.đăngXuấtToolStripMenuItem.Text = "Đăng xuất";
             this.đăngXuấtToolStripMenuItem.Click += new System.EventHandler(this.đăngXuấtToolStripMenuItem_Click);
             // 
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(224, 32);
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(196, 32);
             this.thoátToolStripMenuItem.Text = "Thoát";
             this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
             // 
@@ -210,11 +211,23 @@
             this.guna2Panel1.Size = new System.Drawing.Size(1004, 521);
             this.guna2Panel1.TabIndex = 9;
             // 
+            // lbuser
+            // 
+            this.lbuser.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.lbuser.AutoSize = true;
+            this.lbuser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbuser.Location = new System.Drawing.Point(840, 11);
+            this.lbuser.Name = "lbuser";
+            this.lbuser.Size = new System.Drawing.Size(65, 25);
+            this.lbuser.TabIndex = 10;
+            this.lbuser.Text = "Chào ";
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1004, 557);
+            this.Controls.Add(this.lbuser);
             this.Controls.Add(this.guna2Panel1);
             this.Controls.Add(this.menuhocvien);
             this.Controls.Add(this.guna2HtmlLabel1);
@@ -250,6 +263,7 @@
         private System.Windows.Forms.ToolStripMenuItem xêpToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem điểmTheoLớpToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem quảnLýLớpHọcToolStripMenuItem;
+        private System.Windows.Forms.Label lbuser;
     }
 }
 

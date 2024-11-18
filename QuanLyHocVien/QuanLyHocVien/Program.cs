@@ -20,7 +20,7 @@ namespace QuanLyHocVien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new xeplop());
+            Application.Run(new DangNhap());
         }
     }
 }

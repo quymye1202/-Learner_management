@@ -452,6 +452,7 @@
             this.btnLuuTT.Size = new System.Drawing.Size(143, 36);
             this.btnLuuTT.TabIndex = 76;
             this.btnLuuTT.Text = "Lưu Thông Tin";
+            this.btnLuuTT.Click += new System.EventHandler(this.btnLuuTT_Click);
             // 
             // numDiemNoi
             // 

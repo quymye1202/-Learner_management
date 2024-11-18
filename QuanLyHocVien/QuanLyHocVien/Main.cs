@@ -20,10 +20,12 @@ namespace QuanLyHocVien
         {
             InitializeComponent();
         }
-        public Main(int phanquyen)
+        string user;
+        public Main(int phanquyen,string user)
         {
             InitializeComponent();
             this.phanquyen = phanquyen;
+            this.user = user;
         }
         private void menuhocvien_Opening(object sender, CancelEventArgs e)
         {
@@ -40,6 +42,7 @@ namespace QuanLyHocVien
                 xếpLớpToolStripMenuItem.Enabled=false;
                 quảnLýLớpHọcToolStripMenuItem.Enabled = false;
             }
+            lbuser.Text = "Xin chào: " + user;
         }
 
 

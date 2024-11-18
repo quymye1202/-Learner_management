@@ -39,7 +39,7 @@ namespace QuanLyHocVien.user
                 DataTable dt = kn.getUser(username, password);
                 if (dt.Rows.Count > 0)
                 {
-                    var main = new Main(int.Parse(dt.Rows[0][3].ToString()));
+                    var main = new Main(int.Parse(dt.Rows[0][3].ToString()), dt.Rows[0][1].ToString());
                     this.Hide();
                     main.ShowDialog();
                     this.Show();

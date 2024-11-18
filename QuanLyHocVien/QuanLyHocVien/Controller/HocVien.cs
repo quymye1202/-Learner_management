@@ -116,6 +116,13 @@ namespace QuanLyHocVien.Controller
                 new SqlParameter("@malop", malop),
 
             };
+            string sql1 = "UPDATE bangdiem SET lophoc_id=@malop WHERE hocvien_id=@mahv";
+            SqlParameter[] sp1 = new SqlParameter[]
+            {
+                new SqlParameter("@mahv", mahv),
+                new SqlParameter("@malop", malop),
+
+            };
             if (kn.CreateUpdateDelete(sql, sp))
             {
                 MessageBox.Show("Vào lớp thành công");
@@ -124,11 +131,20 @@ namespace QuanLyHocVien.Controller
             {
                 MessageBox.Show("Vào lớp thất bại");
             }
+            kn.CreateUpdateDelete(sql1, sp1);   
         }
         public void UpdateHocVienrakhoilop(string mahv)
         {
             string sql = "UPDATE hocvien SET lophoc_id=NUlL WHERE hocvien_id=@mahv";
+        
             SqlParameter[] sp = new SqlParameter[]
+            {
+                new SqlParameter("@mahv", mahv),
+
+            };
+            string sql1 = "UPDATE bangdiem SET lophoc_id=NUlL WHERE hocvien_id=@mahv";
+
+            SqlParameter[] sp1 = new SqlParameter[]
             {
                 new SqlParameter("@mahv", mahv),
 
@@ -141,6 +157,7 @@ namespace QuanLyHocVien.Controller
             {
                 MessageBox.Show("Loại ra khỏi lớp thất bại");
             }
+            kn.CreateUpdateDelete(sql1, sp1);
         }
     }
 }
